@@ -26,7 +26,7 @@ You are free to explore and leave any feedback you may have!
 ### Design 1
 **Description**:This is a digital artwork cover of my favourite anime, One Piece.
 **Technologies used**: Adobe Photoshop, Canva, 
-**Link** : [View] ([One Piece](https://www.pinterest.com/pin/760967668285137087/))
+**Link** : [View] ([One Piece]((https://pin.it/5XI9EbwI8)))
 
 ## Contact
 You can get in touch with me through the following methods:
